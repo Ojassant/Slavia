@@ -1,0 +1,99 @@
+body{
+    background-image: url("https://images.hdqwalls.com/download/cyber-futuristic-city-fantasy-art-4k-da-2560x1440.jpg");
+    text-align: center;
+    background-size: cover;
+}
+img{
+    width: 350px;
+    height: 450px;
+    margin-right: 900px;
+    border: solid 2px black;
+}
+.info-1{
+    background-color: rgb(173, 39, 39);
+    width: 700px;
+    height: 350px;
+    padding: 50px;
+    margin-left: 800px;
+    margin-top: -520px;
+    font-size: x-large;
+    opacity: 0.8;
+    text-align: center;
+    border: solid 2px black;
+}
+.info-2{
+    background-color: rgb(173, 39, 39);
+    color: black;
+    width: 700px;
+    height: 350px;
+    padding: 50px;
+    margin-left: 800px;
+    margin-top: -520px;
+    font-size: x-large;
+    opacity: 0.8;
+    border: solid 2px black;
+}
+.showroom-1{
+    background-image: url("https://cdn-gx-aria-media.osp.opera.software/images/dd09d635-41cb-11ef-b81e-5569f10f8a51/1720954372374/sample_0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 400px;
+    padding: 20px;
+    text-align: center; 
+    margin-left: 10px;
+    border: solid 2px black;
+}
+.showroom-2{
+    background-image: url("https://cdn-gx-aria-media.osp.opera.software/images/dd09d635-41cb-11ef-b81e-5569f10f8a51/1720954418201/sample_0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    text-align: center; 
+    margin-left: 470px;
+    margin-top: -540px;
+    border: solid 2px black;
+}
+.showroom-3{
+    background-image: url("https://cdn-gx-aria-media.osp.opera.software/images/dd09d635-41cb-11ef-b81e-5569f10f8a51/1720954573909/sample_0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    text-align: center; 
+    margin-left: 930px;
+    margin-top: -540px;
+    border: solid 2px black;
+}
+.showroom-4{
+    background-image: url("https://cdn-gx-aria-media.osp.opera.software/images/dd09d635-41cb-11ef-b81e-5569f10f8a51/1720954607442/sample_0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    text-align: center; 
+    margin-left: 1400px;
+    margin-top: -540px;
+    border: solid 2px black;
+}
+mark{
+    background-color: rgb(173, 39, 39);
+    opacity: 0.7;
+    color: white;
+}
+h1, h3, h4{
+    color: white;
+}
+.logo{
+    border-radius: 250%;
+    height: 150px;
+    width: 150px;
+    margin: 0 0 0 0;
+}
+mark:hover{
+    font-size: 50px;
+}
